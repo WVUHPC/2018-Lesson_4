@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Distributed Computing (MPI)"
+teaching: 45
+exercises: 15
 questions:
-- "Key question (FIXME)"
+- "What is Message Passing Interface?"
 objectives:
-- "First objective. (FIXME)"
+- "Learn how to use MPI for distribute computation even crossing nodes."
 keypoints:
-- "First key point. (FIXME)"
+- "MPI is the fact standard for large scale numerical computing, where a single node no matter how big, does not have the cores or memory able to run the simulation."
 ---
 FIXME
 

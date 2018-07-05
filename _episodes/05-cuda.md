@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "HPC Accelerators (Cuda)"
+teaching: 45
+exercises: 15
 questions:
-- "Key question (FIXME)"
+- "What is GPU computing?"
 objectives:
-- "First objective. (FIXME)"
+- "Learn the first steps in programming GPUs with Cuda"
 keypoints:
-- "First key point. (FIXME)"
+- "GPU computing is nowadays the landmark of HPC clusters, the most powerful computers in the world rely on them for part of most of its multi PetaFLOP capabilities."
 ---
 FIXME
 

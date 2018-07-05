@@ -1,13 +1,14 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Embarrassing parallelism (GNU Parallel)"
+teaching: 45
+exercises: 15
 questions:
-- "Key question (FIXME)"
+- "What is embarrassing parallelism?"
 objectives:
-- "First objective. (FIXME)"
+- "Learn how to quickly explore parametric spaces using GNU parallel"
 keypoints:
-- "First key point. (FIXME)"
+- "GNU parallel is just a tool to exploit embarrassing parallel problems.
+You can equally use multiprocessing in python or R parallel libraries for the same effect."
 ---
 FIXME
 

@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
-teaching: 0
-exercises: 0
+title: "Introduction to Parallel Computing"
+teaching: 45
+exercises: 15
 questions:
-- "Key question (FIXME)"
+- "What is parallel computing, do I really need to learn this?"
 objectives:
-- "First objective. (FIXME)"
+- "Learn the differences between several paradigms in Parallel computing and get a first exposure on how programming works with them."
 keypoints:
-- "First key point. (FIXME)"
+- "Parallel computing start with identifying the concurrent opportunities of a given problem and decide the best paradigm to exploit the concurrency with the minimal programming effort."
 ---
 FIXME
 
