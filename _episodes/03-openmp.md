@@ -1,7 +1,7 @@
 ---
 title: "Multithreading (OpenMP)"
-teaching: 0
-exercises: 0
+teaching: 105
+exercises: 15
 questions:
 - "What is OpenMP?"
 objectives:
